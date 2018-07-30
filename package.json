@@ -1,0 +1,23 @@
+{
+  "name": "docker-node",
+  "version": "0.0.1",
+  "description": "Docker Node Example",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeHyungGeun/docker-node.git"
+  },
+  "keywords": [
+    "docker",
+    "node"
+  ],
+  "author": "LeeHyungGeun <lhg4031@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeHyungGeun/docker-node/issues"
+  },
+  "homepage": "https://github.com/LeeHyungGeun/docker-node#readme"
+}
